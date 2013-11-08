@@ -9,7 +9,7 @@ import org.dom4j.Document;
 public class XMLVariableExtractor implements VariableExtractor  {
 	private Document xmlDocument;
 	
-	public XMLVariableExtractor (File file)
+	public XMLVariableExtractor (File inFile)
 	{
 		
 	}
