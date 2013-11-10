@@ -41,7 +41,7 @@ public class XMLVariableExtractor implements VariableExtractor  {
 		
 	}
 	
-	private void loadAllRules ()
+	private void loadRules ()
 	{
 		
 	}
